@@ -1,0 +1,6 @@
+browser=chrome
+url=https://www.amazon.in/
+selectvalue=baby
+searchproduct=Soft Toys
+sheetname=amazon
+path=C:\\Users\\shara\\eclipse-workspace\\SDP_Amazon\\data driven\\data driven.xlsx

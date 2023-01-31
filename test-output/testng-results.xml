@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86064" started-at="2023-01-25T14:21:40 IST" finished-at="2023-01-25T14:23:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86064" started-at="2023-01-25T14:21:40 IST" finished-at="2023-01-25T14:23:06 IST">
+      <class name="com.Amazon.Amazon_Project">
+        <test-method status="PASS" signature="browser_Launch()[pri:0, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="browser_Launch" is-config="true" duration-ms="58141" started-at="2023-01-25T14:21:40 IST" finished-at="2023-01-25T14:22:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Launch -->
+        <test-method status="PASS" signature="url_Launch()[pri:0, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="url_Launch" is-config="true" duration-ms="2689" started-at="2023-01-25T14:22:38 IST" finished-at="2023-01-25T14:22:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_Launch -->
+        <test-method status="PASS" signature="drop_down()[pri:0, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="drop_down" duration-ms="1329" started-at="2023-01-25T14:22:41 IST" finished-at="2023-01-25T14:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drop_down -->
+        <test-method status="PASS" signature="select()[pri:1, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="select" duration-ms="10794" started-at="2023-01-25T14:22:42 IST" finished-at="2023-01-25T14:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select -->
+        <test-method status="PASS" signature="first_Product()[pri:2, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="first_Product" duration-ms="253" started-at="2023-01-25T14:22:53 IST" finished-at="2023-01-25T14:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first_Product -->
+        <test-method status="PASS" signature="window_handle()[pri:3, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="window_handle" duration-ms="36" started-at="2023-01-25T14:22:53 IST" finished-at="2023-01-25T14:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window_handle -->
+        <test-method status="PASS" signature="add_To_Cart()[pri:4, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="add_To_Cart" duration-ms="4885" started-at="2023-01-25T14:22:53 IST" finished-at="2023-01-25T14:22:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_To_Cart -->
+        <test-method status="PASS" signature="cart_Checkout()[pri:0, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="cart_Checkout" duration-ms="7591" started-at="2023-01-25T14:22:58 IST" depends-on-methods="com.Amazon.Amazon_Project.add_To_Cart" finished-at="2023-01-25T14:23:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart_Checkout -->
+        <test-method status="PASS" signature="screenShot()[pri:6, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="screenShot" duration-ms="193" started-at="2023-01-25T14:23:06 IST" finished-at="2023-01-25T14:23:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+        <test-method status="PASS" signature="close1()[pri:0, instance:com.Amazon.Amazon_Project@1b26f7b2]" name="close1" is-config="true" duration-ms="0" started-at="2023-01-25T14:23:06 IST" finished-at="2023-01-25T14:23:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close1 -->
+      </class> <!-- com.Amazon.Amazon_Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
